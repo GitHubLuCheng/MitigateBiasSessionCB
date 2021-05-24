@@ -1,7 +1,7 @@
-# MitigateBiasSessionCB
+# Mitigating Bias in Session-based Cyberbullying Detection
 Implementation of the ACL21 paper: Mitigating Bias in Session-based Cyberbullying Detection
 
-<p align=center><img src="proposed.png" width="300" center/>
+<p align=center><img src="proposed.png" width="400" center/>
 
 
 ## Code usage
